@@ -1,10 +1,10 @@
-<?php include '/inc/header.php'; ?>
+<?php include 'inc/header.php'; ?>
 <title>Terms Of Service - ShareText</title>
 <br><br><br>
 <div class="container">
 	<div class="panel panel-success" align="center">
 		<div class="panel-heading">
-			<img src="/inc/icon.png" width="16px">
+			<img src="inc/icon.png" width="16px">
 			<strong>
 				ShareText
 			</strong>

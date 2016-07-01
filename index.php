@@ -1,10 +1,10 @@
-<?php include '/inc/header.php'; ?>
+<?php include 'inc/header.php'; ?>
 <title>ShareText</title>
 <br><br><br>
 <div class="container">
 	<div class="panel panel-success" align="center">
 		<div class="panel-heading">
-			<img src="/inc/icon.png" width="16px">
+			<img src="inc/icon.png" width="16px">
 			<strong>
 				Welcome to ShareText
 			</strong>
@@ -19,8 +19,8 @@
 			<br>
 			<a href="new"><button type="button" class="btn btn-info btn-lg">Create a new document</button></a>
 			<br><br>
-			<small>By publishing any document, you agree to the <a href="/terms" target="_blank">Terms of Service</a></small><br>
-			<small>Thanks to everyone who helped with ShareText! <a href="/credit" target="_blank">Check them out</a>.</small><br>
+			<small>By publishing any document, you agree to the <a href="terms" target="_blank">Terms of Service</a></small><br>
+			<small>Thanks to everyone who helped with ShareText! <a href="credit" target="_blank">Check them out</a>.</small><br>
 			<small>For your security, we have no search and we do not allow search engines to crawl our website. Anything you paste will be private.</small>
 		</div>
 	</div>

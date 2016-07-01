@@ -8,7 +8,7 @@
 			<strong>
 				ShareText
 			</strong>
-			- 
+			-
 			<small>
 				Page not found
 			</small>
